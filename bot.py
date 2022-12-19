@@ -3,6 +3,7 @@
 import os
 import asyncio
 import traceback
+from google.cloud.speech_v1.gapic import enums
 from binascii import (
     Error
 )
